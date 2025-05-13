@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Naveen24245/leetcode/tree/master/0007-reverse-integer) |
+| [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
@@ -18,9 +19,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
