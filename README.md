@@ -6,25 +6,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Naveen24245/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Naveen24245/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Naveen24245/leetcode/tree/master/0007-reverse-integer) |
 | [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Naveen24245/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Naveen24245/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Naveen24245/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Naveen24245/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
