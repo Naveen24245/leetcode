@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Naveen24245/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Naveen24245/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Naveen24245/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Naveen24245/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Naveen24245/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Naveen24245/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Naveen24245/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
