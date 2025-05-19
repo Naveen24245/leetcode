@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Naveen24245/leetcode/tree/master/0007-reverse-integer) |
 | [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
+| [3321-type-of-triangle](https://github.com/Naveen24245/leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Naveen24245/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Naveen24245/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Naveen24245/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Naveen24245/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/Naveen24245/leetcode/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/Naveen24245/leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
