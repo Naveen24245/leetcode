@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Naveen24245/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Naveen24245/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/Naveen24245/leetcode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/Naveen24245/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Naveen24245/leetcode/tree/master/0010-regular-expression-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Naveen24245/leetcode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
