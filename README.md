@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Naveen24245/leetcode/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen24245/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Naveen24245/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Naveen24245/leetcode/tree/master/0011-container-with-most-water) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Naveen24245/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Naveen24245/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Naveen24245/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Naveen24245/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
