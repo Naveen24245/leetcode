@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Naveen24245/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Naveen24245/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Naveen24245/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Naveen24245/leetcode/tree/master/0014-longest-common-prefix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Naveen24245/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Naveen24245/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Naveen24245/leetcode/tree/master/3194-find-words-containing-character) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Naveen24245/leetcode/tree/master/0945-snakes-and-ladders) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Naveen24245/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
