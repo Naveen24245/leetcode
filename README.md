@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Naveen24245/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Naveen24245/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Naveen24245/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen24245/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Naveen24245/leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen24245/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Naveen24245/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Naveen24245/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Naveen24245/leetcode/tree/master/0203-remove-linked-list-elements) |
