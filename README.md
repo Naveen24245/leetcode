@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Naveen24245/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Naveen24245/leetcode/tree/master/0013-roman-to-integer) |
 | [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
+| [2481-strictly-palindromic-number](https://github.com/Naveen24245/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Naveen24245/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Naveen24245/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Naveen24245/leetcode/tree/master/3321-type-of-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen24245/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Naveen24245/leetcode/tree/master/0141-linked-list-cycle) |
+| [2481-strictly-palindromic-number](https://github.com/Naveen24245/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Naveen24245/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Naveen24245/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
