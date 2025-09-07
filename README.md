@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Naveen24245/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Naveen24245/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Naveen24245/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Naveen24245/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen24245/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [0945-snakes-and-ladders](https://github.com/Naveen24245/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Naveen24245/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Naveen24245/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen24245/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Naveen24245/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Naveen24245/leetcode/tree/master/0141-linked-list-cycle) |
 | [2481-strictly-palindromic-number](https://github.com/Naveen24245/leetcode/tree/master/2481-strictly-palindromic-number) |
