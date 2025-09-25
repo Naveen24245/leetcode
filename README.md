@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Naveen24245/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Naveen24245/leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Naveen24245/leetcode/tree/master/0042-trapping-rain-water) |
 | [0464-can-i-win](https://github.com/Naveen24245/leetcode/tree/master/0464-can-i-win) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Naveen24245/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Naveen24245/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Naveen24245/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naveen24245/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Naveen24245/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Naveen24245/leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen24245/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [0945-snakes-and-ladders](https://github.com/Naveen24245/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Naveen24245/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen24245/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naveen24245/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Naveen24245/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Naveen24245/leetcode/tree/master/0141-linked-list-cycle) |
 | [2481-strictly-palindromic-number](https://github.com/Naveen24245/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -192,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Naveen24245/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Naveen24245/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Naveen24245/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
