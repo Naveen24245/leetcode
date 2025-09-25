@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Naveen24245/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Naveen24245/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Naveen24245/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Naveen24245/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen24245/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Naveen24245/leetcode/tree/master/0141-linked-list-cycle) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Naveen24245/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Naveen24245/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Naveen24245/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naveen24245/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Naveen24245/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen24245/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Naveen24245/leetcode/tree/master/0075-sort-colors) |
 | [0945-snakes-and-ladders](https://github.com/Naveen24245/leetcode/tree/master/0945-snakes-and-ladders) |
